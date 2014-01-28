@@ -1,5 +1,7 @@
 /* Your Website Styles */
-
+body {
+background: #000;
+}
 
 /* Show Grid */
 .showgrid {
