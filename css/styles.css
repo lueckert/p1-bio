@@ -1,9 +1,28 @@
 /* Your Website Styles */
 body {
-background: orange;
+	font-family: sans-serif;
+}
+/* Show Grid */
+
+.box {
+	background-color: #E4E4E4;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+
 }
 
-/* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+.content {
+	margin: 30px;
+
+}
+
+h1 {
+	font-size: 3em;
+	margin-top: 0;
+
+}
+
+h3 {
+
 }
