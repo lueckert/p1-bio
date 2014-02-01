@@ -12,6 +12,7 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-position: center center;
+	margin-top: 100px;
 	width: 1000px;
 	height: 800px;
 	
@@ -31,13 +32,13 @@ img {
 h1 {
 	font-family: 'Nunito', sans-serif;
 	font-size: 3em;
-	font-weight: 400;
+	font-weight: 700;
 	margin-top: 0;
-	margin-left: 20px;
+	margin-left: 10px;
 
 }
 
 h3 {
 	font-family: 'Nunito', sans-serif;
-	font-weight: ; 
+	font-weight: 700; 
 }
