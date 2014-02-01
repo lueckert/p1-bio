@@ -9,13 +9,18 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-position: center center;
+	width: 1000px;
+	height: 1000px
+}
+
+.grid_4 {
+	margin-top: 20px;
+	margin-left: 20px;
 
 }
 
-.content {
-	margin: 30px;
 
-}
+
 
 h1 {
 	font-size: 3em;
